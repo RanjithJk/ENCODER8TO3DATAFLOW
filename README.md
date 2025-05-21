@@ -64,8 +64,10 @@ assign a2 =d4|d5|d6|d7;
 endmodule
 ,,,
 **RTL LOGIC FOR Encoder 8 To 3 in Dataflow Modelling**
+![image](https://github.com/user-attachments/assets/3f4efaca-5bf2-408b-95a8-4e10329dc513)
 
 **TIMING DIGRAMS FOR Encoder 8 To 3 in Dataflow Modelling**
+![436630986-732cfdbb-2758-4d2e-9af6-14787e772ee8](https://github.com/user-attachments/assets/0f571006-a705-40ef-a532-80b5e495716d)
 
 **RESULTS**
 
